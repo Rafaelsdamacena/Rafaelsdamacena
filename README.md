@@ -8,7 +8,7 @@
 #### Interesse nas áreas de: <br>
 ####  - Desenvolvimento de software; <br> 
 ####  - FrontEnd; <br>
-####  - DevOps; <br>
+####  - BackEnd; <br>
 <br> <br>
 
 
